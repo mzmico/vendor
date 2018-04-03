@@ -87,6 +87,22 @@
 			"notests": true
 		},
 		{
+			"importpath": "github.com/go-redis/redis",
+			"repository": "https://github.com/go-redis/redis",
+			"vcs": "git",
+			"revision": "877867d2845fbaf86798befe410b6ceb6f5c29a3",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/go-sql-driver/mysql",
+			"repository": "https://github.com/go-sql-driver/mysql",
+			"vcs": "git",
+			"revision": "1a676ac6e4dce68e9303a1800773861350374a9e",
+			"branch": "master",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/gogo/protobuf/gogoproto",
 			"repository": "https://github.com/gogo/protobuf",
 			"vcs": "git",
@@ -185,6 +201,14 @@
 			"notests": true
 		},
 		{
+			"importpath": "github.com/google/uuid",
+			"repository": "https://github.com/google/uuid",
+			"vcs": "git",
+			"revision": "dec09d789f3dba190787f8b4454c7d3c936fed9e",
+			"branch": "master",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/grpc-ecosystem/go-grpc-middleware",
 			"repository": "https://github.com/grpc-ecosystem/go-grpc-middleware",
 			"vcs": "git",
@@ -197,6 +221,14 @@
 			"repository": "https://github.com/inconshreveable/mousetrap",
 			"vcs": "git",
 			"revision": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/jmoiron/sqlx",
+			"repository": "https://github.com/jmoiron/sqlx",
+			"vcs": "git",
+			"revision": "cf35089a197953c69420c8d0cecda90809764b1d",
 			"branch": "master",
 			"notests": true
 		},
@@ -261,6 +293,14 @@
 			"repository": "https://github.com/pkg/sftp",
 			"vcs": "git",
 			"revision": "43ec6c679d353f6e077d3965dc74f6d996eb4a09",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/renstrom/shortuuid",
+			"repository": "https://github.com/renstrom/shortuuid",
+			"vcs": "git",
+			"revision": "21f717a812cb76e9896762ae3ef64e87ca195aa2",
 			"branch": "master",
 			"notests": true
 		},
